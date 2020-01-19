@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='介绍'/>
+        <page name='True 和 False'/>
+        <page name='等式'/>
+        <page name='更多比较'/>
+        <page name='条件'/>
+        <page name='Else'/>
+        <page name='Else If'/>
+        <page name='函数和决策'/>
+        <page name='求余运算符'/>
+        <page name='总结'/>
+        <page name='练习 If 语句练习'/>
+        <page name='练习 Else 练习'/>
+        <page name='练习 闰年'/>
+    </pages>
+</playground>

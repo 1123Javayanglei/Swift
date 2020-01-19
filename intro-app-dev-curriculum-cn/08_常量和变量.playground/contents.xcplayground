@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='介绍'/>
+        <page name='常量和变量'/>
+        <page name='声明变量'/>
+        <page name='使用变量'/>
+        <page name='简便写法'/>
+        <page name='恼人的更改'/>
+        <page name='尝试更改常量'/>
+        <page name='你的选择你做主'/>
+        <page name='不断变化的世界，更安全的代码'/>
+        <page name='意想不到的世界，更安全的代码'/>
+        <page name='总结'/>
+        <page name='练习 购物清单'/>
+        <page name='练习 501'/>
+    </pages>
+</playground>

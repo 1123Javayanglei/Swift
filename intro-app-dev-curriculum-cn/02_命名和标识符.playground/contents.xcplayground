@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='介绍'/>
+        <page name='宠物问题'/>
+        <page name='宠物问题总结'/>
+        <page name='命名事物'/>
+        <page name='自动填写'/>
+        <page name='标识符'/>
+        <page name='恰当的名称'/>
+        <page name='程序员的行业术语'/>
+        <page name='总结'/>
+        <page name='10-ExerciseShow'/>
+        <page name='11-ExerciseLottery'/>
+        <page name='12-ExerciseiPhone'/>
+        <page name='13-ExerciseMorning'/>
+        <page name='14-ExerciseNaming'/>
+    </pages>
+</playground>

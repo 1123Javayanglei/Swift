@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='介绍'/>
+        <page name='更改颜色'/>
+        <page name='隐藏结果边栏'/>
+        <page name='控制台'/>
+        <page name='Hello'/>
+        <page name='来自程序员的消息'/>
+        <page name='你可以打印什么内容？'/>
+        <page name='记录'/>
+        <page name='总结'/>
+        <page name='练习 调试'/>
+        <page name='练习 控制台 App'/>
+    </pages>
+</playground>

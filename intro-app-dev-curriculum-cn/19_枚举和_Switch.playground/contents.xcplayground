@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='介绍'/>
+        <page name='再说做出决策'/>
+        <page name='枚举'/>
+        <page name='枚举和类型推断'/>
+        <page name='何时使用枚举'/>
+        <page name='比较枚举'/>
+        <page name='枚举和函数'/>
+        <page name='If 的问题'/>
+        <page name='Switch'/>
+        <page name='穷尽可能性'/>
+        <page name='默认事例'/>
+        <page name='多个事例'/>
+        <page name='不只是枚举'/>
+        <page name='回到食堂'/>
+        <page name='枚举方法和属性'/>
+        <page name='总结'/>
+        <page name='练习 定义枚举'/>
+        <page name='练习 数小鸡'/>
+        <page name='练习 替换 Bool'/>
+        <page name='练习 计算投票数'/>
+        <page name='练习 Switch'/>
+    </pages>
+</playground>

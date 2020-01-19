@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='介绍'/>
+        <page name='调用函数'/>
+        <page name='不断重复'/>
+        <page name='单项工作'/>
+        <page name='分解细化'/>
+        <page name='函数套函数'/>
+        <page name='无限循环'/>
+        <page name='隐藏复杂性'/>
+        <page name='只更改一次'/>
+        <page name='总结'/>
+        <page name='模因练习'/>
+        <page name='你自己的模因'/>
+    </pages>
+</playground>

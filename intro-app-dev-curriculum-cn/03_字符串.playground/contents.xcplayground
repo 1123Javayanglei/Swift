@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='介绍'/>
+        <page name='字符'/>
+        <page name='定义字符串'/>
+        <page name='Unicode'/>
+        <page name='组合字符串'/>
+        <page name='填空'/>
+        <page name='字符串插值'/>
+        <page name='查看结果'/>
+        <page name='不只是字符串'/>
+        <page name='神奇的转义功能'/>
+        <page name='转义序列'/>
+        <page name='总结'/>
+        <page name='练习 制作列表'/>
+        <page name='练习 餐厅'/>
+        <page name='练习 开始！加油！胜利！'/>
+        <page name='练习 显示值'/>
+    </pages>
+</playground>

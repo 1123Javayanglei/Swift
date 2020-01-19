@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='介绍'/>
+        <page name='第一个词'/>
+        <page name='处理大小写'/>
+        <page name='特殊问题'/>
+        <page name='默认回答'/>
+        <page name='融会贯通'/>
+        <page name='总结'/>
+    </pages>
+</playground>

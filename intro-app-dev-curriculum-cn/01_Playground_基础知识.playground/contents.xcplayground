@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='介绍'/>
+        <page name='什么是 Playground？'/>
+        <page name='计算'/>
+        <page name='注释'/>
+        <page name='出问题时'/>
+        <page name='错误'/>
+        <page name='总结'/>
+    </pages>
+</playground>

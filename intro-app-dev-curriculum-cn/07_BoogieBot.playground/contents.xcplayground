@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' auto-termination-delay='21' display-mode='rendered'>
+    <pages>
+        <page name='介绍'/>
+        <page name='实时视图'/>
+        <page name='舞蹈学校'/>
+        <page name='API'/>
+        <page name='舞蹈套路'/>
+        <page name='在作品上签名'/>
+        <page name='分享 Boogie'/>
+        <page name='算法'/>
+        <page name='总结'/>
+        <page name='Boogie Workshop 1'/>
+        <page name='Boogie Workshop 2'/>
+        <page name='Boogie Workshop 3'/>
+        <page name='Boogie Workshop 4'/>
+    </pages>
+</playground>

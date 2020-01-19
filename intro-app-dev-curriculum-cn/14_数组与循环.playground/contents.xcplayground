@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='列表'/>
+        <page name='数组字面量'/>
+        <page name='索引'/>
+        <page name='计数'/>
+        <page name='类型'/>
+        <page name='处理数组'/>
+        <page name='循环'/>
+        <page name='可变数组'/>
+        <page name='添加项目'/>
+        <page name='移除项目'/>
+        <page name='替换项目'/>
+        <page name='总结'/>
+        <page name='练习 计数'/>
+        <page name='练习 卡拉 ok 机'/>
+        <page name='练习 计算投票数'/>
+        <page name='练习 目标'/>
+        <page name='练习 筛选信息'/>
+    </pages>
+</playground>

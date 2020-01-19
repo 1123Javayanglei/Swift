@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground target-platform="ios" requires-full-environment="false" version="6.0">
+    <pages>
+        <page name="介绍"/>
+        <page name="从具体到一般"/>
+        <page name="你最喜爱的食物"/>
+        <page name="传递更多值"/>
+        <page name="其他最喜爱的事物"/>
+        <page name="取回值"/>
+        <page name="返回值"/>
+        <page name="函数的种类"/>
+        <page name="构造块"/>
+        <page name="命名"/>
+        <page name="参数名称和自变量标签"/>
+        <page name="没有名称的自变量"/>
+        <page name="总结"/>
+        <page name="练习 动宾结构"/>
+        <page name="练习 使用返回值"/>
+        <page name="练习 自变量标签"/>
+        <page name="练习 没有自变量标签"/>
+    </pages>
+</playground>

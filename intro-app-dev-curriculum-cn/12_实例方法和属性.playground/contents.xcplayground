@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered'>
+    <pages>
+        <page name='介绍'/>
+        <page name='实例'/>
+        <page name='创建实例'/>
+        <page name='方法'/>
+        <page name='方法和类型保护'/>
+        <page name='属性'/>
+        <page name='属性和方法'/>
+        <page name='再说 API'/>
+        <page name='这是做什么的？'/>
+        <page name='Quick Help'/>
+        <page name='阅读适合的手册'/>
+        <page name='类和结构'/>
+        <page name='为什么使用方法和属性？'/>
+        <page name='总结'/>
+        <page name='练习 BoogieBot 归来'/>
+        <page name='练习 载货升降机'/>
+        <page name='练习 身份'/>
+    </pages>
+</playground>
